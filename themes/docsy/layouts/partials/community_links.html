@@ -2,19 +2,19 @@
 
 <section class="row td-box td-box--4 td-box--gradient td-box--height-auto linkbox">
 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-<h2>Learn and Connect</h2>		
-<p>Using or want to use {{ .Site.Title }}? Find out more here:
+<h2>学ぶ。そしてつながる。</h2>		
+<p>{{ .Site.Title }}を使っていますか? もっといろいろなことを知ろう:
 {{ with index $links "user"}}
 {{ template "community-links-list"  . }}
 {{ end }}
 </div>
 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-<h2>Develop and Contribute</h2>
-<p>If you want to get more involved by contributing to {{ .Site.Title }}, join us here:
+<h2>開発・貢献</h2>
+<p>あなたがもし {{ .Site.Title }}をより良くしたいと思ったら、以下をチェックしてください:
 {{ with index $links "developer"}}
 {{ template "community-links-list"  . }}
 {{ end }}
-<p>You can find out how to contribute to these docs in our <a href="/docs/contribution-guidelines/">Contribution Guidelines</a>.
+<p>参加方法は <a href="/docs/contribution-guidelines/">こちら</a>を確認してください。
 </div>
 </section>
 
