@@ -87,7 +87,7 @@ privacy_policy = "https://policies.google.com/privacy"
 version_menu = "Releases"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/lihghtcube-c/LightCube"
+github_repo = "https://github.com/lightcube-c/Docs"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
 github_project_repo = "https://github.com/lightcube-c/LightCube"
 
