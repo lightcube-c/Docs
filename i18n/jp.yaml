@@ -1,0 +1,16 @@
+---
+- id: blogTitle
+  translation: 最新記事
+- id: readMore
+  translation: もっと読む
+- id: viewAllPost
+  translation: 全ての記事
+- id: share
+  translation: 共有
+- id: aboutAuthor
+  translation: 執筆者について
+- id: authorsPosts
+  translation: 著者の投稿
+- id: copyright
+  translation: Copyright &copy; 2020 [LightCube Team](https://lightcube-b.netlify.com/)
+    All Rights Reserved.

@@ -3,473 +3,217 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lightcube-c.github.io/en/docs/overview/</loc>
+    <loc>https://examplesite.com/en/blog/are-you-doing-the-right-way/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/docs/overview/"
+                hreflang="jp"
+                href="https://examplesite.com/jp/blog/are-you-doing-the-right-way/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lightcube-c.github.io/en/docs/overview/"
+                href="https://examplesite.com/en/blog/are-you-doing-the-right-way/"
                 />
   </url>
   
   <url>
-    <loc>https://lightcube-c.github.io/en/docs/tasks/beds/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://examplesite.com/en/blog/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/docs/tasks/beds/"
+                hreflang="jp"
+                href="https://examplesite.com/jp/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lightcube-c.github.io/en/docs/tasks/beds/"
+                href="https://examplesite.com/en/blog/"
                 />
   </url>
   
   <url>
-    <loc>https://lightcube-c.github.io/en/docs/tasks/ponycopters/configuring-ponycopters/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://examplesite.com/en/blog/installation/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/docs/tasks/ponycopters/configuring-ponycopters/"
+                hreflang="jp"
+                href="https://examplesite.com/jp/blog/installation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lightcube-c.github.io/en/docs/tasks/ponycopters/configuring-ponycopters/"
+                href="https://examplesite.com/en/blog/installation/"
                 />
   </url>
   
   <url>
-    <loc>https://lightcube-c.github.io/en/docs/getting-started/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://examplesite.com/en/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/docs/getting-started/"
+                hreflang="jp"
+                href="https://examplesite.com/jp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lightcube-c.github.io/en/docs/getting-started/"
+                href="https://examplesite.com/en/"
                 />
   </url>
   
   <url>
-    <loc>https://lightcube-c.github.io/en/docs/examples/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://examplesite.com/en/blog/simple-blog-post-1/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/docs/examples/"
+                hreflang="jp"
+                href="https://examplesite.com/jp/blog/simple-blog-post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lightcube-c.github.io/en/docs/examples/"
+                href="https://examplesite.com/en/blog/simple-blog-post-1/"
                 />
   </url>
   
   <url>
-    <loc>https://lightcube-c.github.io/en/docs/tasks/ponycopters/launching-ponycopters/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://examplesite.com/en/blog/simple-blog-post-2/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/docs/tasks/ponycopters/launching-ponycopters/"
+                hreflang="jp"
+                href="https://examplesite.com/jp/blog/simple-blog-post-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lightcube-c.github.io/en/docs/tasks/ponycopters/launching-ponycopters/"
+                href="https://examplesite.com/en/blog/simple-blog-post-2/"
                 />
   </url>
   
   <url>
-    <loc>https://lightcube-c.github.io/en/docs/tutorials/multi-bear/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://examplesite.com/en/blog/simple-blog-post-3/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/docs/tutorials/multi-bear/"
+                hreflang="jp"
+                href="https://examplesite.com/jp/blog/simple-blog-post-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lightcube-c.github.io/en/docs/tutorials/multi-bear/"
+                href="https://examplesite.com/en/blog/simple-blog-post-3/"
                 />
   </url>
   
   <url>
-    <loc>https://lightcube-c.github.io/en/docs/tasks/porridge/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://examplesite.com/en/blog/simple-blog-post-4/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/docs/tasks/porridge/"
+                hreflang="jp"
+                href="https://examplesite.com/jp/blog/simple-blog-post-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lightcube-c.github.io/en/docs/tasks/porridge/"
+                href="https://examplesite.com/en/blog/simple-blog-post-4/"
                 />
   </url>
   
   <url>
-    <loc>https://lightcube-c.github.io/en/docs/concepts/</loc>
+    <loc>https://examplesite.com/en/blog/simple-blog-post-5/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/docs/concepts/"
+                hreflang="jp"
+                href="https://examplesite.com/jp/blog/simple-blog-post-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lightcube-c.github.io/en/docs/concepts/"
+                href="https://examplesite.com/en/blog/simple-blog-post-5/"
                 />
   </url>
   
   <url>
-    <loc>https://lightcube-c.github.io/en/docs/tasks/task/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://examplesite.com/en/blog/simple-blog-post-6/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/docs/tasks/task/"
+                hreflang="jp"
+                href="https://examplesite.com/jp/blog/simple-blog-post-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lightcube-c.github.io/en/docs/tasks/task/"
+                href="https://examplesite.com/en/blog/simple-blog-post-6/"
                 />
   </url>
   
   <url>
-    <loc>https://lightcube-c.github.io/en/docs/tutorials/tutorial2/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://examplesite.com/en/blog/simple-blog-post/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/docs/tutorials/tutorial2/"
+                hreflang="jp"
+                href="https://examplesite.com/jp/blog/simple-blog-post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lightcube-c.github.io/en/docs/tutorials/tutorial2/"
+                href="https://examplesite.com/en/blog/simple-blog-post/"
                 />
   </url>
   
   <url>
-    <loc>https://lightcube-c.github.io/en/docs/tasks/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://examplesite.com/en/author/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/docs/tasks/"
+                hreflang="jp"
+                href="https://examplesite.com/jp/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lightcube-c.github.io/en/docs/tasks/"
+                href="https://examplesite.com/en/author/"
                 />
   </url>
   
   <url>
-    <loc>https://lightcube-c.github.io/en/docs/tutorials/</loc>
-    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
+    <loc>https://examplesite.com/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/docs/tutorials/"
+                hreflang="jp"
+                href="https://examplesite.com/jp/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lightcube-c.github.io/en/docs/tutorials/"
+                href="https://examplesite.com/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://lightcube-c.github.io/en/docs/reference/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/docs/reference/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lightcube-c.github.io/en/docs/reference/"
-                />
+    <loc>https://examplesite.com/en/author/john-doe/</loc>
   </url>
   
   <url>
-    <loc>https://lightcube-c.github.io/en/docs/contribution-guidelines/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/docs/contribution-guidelines/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lightcube-c.github.io/en/docs/contribution-guidelines/"
-                />
+    <loc>https://examplesite.com/en/author/mark-dinn/</loc>
   </url>
   
   <url>
-    <loc>https://lightcube-c.github.io/en/blog/dev/</loc>
-    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
+    <loc>https://examplesite.com/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/blog/dev/"
+                hreflang="jp"
+                href="https://examplesite.com/jp/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lightcube-c.github.io/en/blog/dev/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lightcube-c.github.io/en/blog/news/</loc>
-    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/blog/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lightcube-c.github.io/en/blog/news/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lightcube-c.github.io/en/blog/releases/</loc>
-    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/blog/releases/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lightcube-c.github.io/en/blog/releases/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lightcube-c.github.io/en/docs/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/docs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lightcube-c.github.io/en/docs/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lightcube-c.github.io/en/blog/2018/10/06/easy-documentation-with-docsy/</loc>
-    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/blog/2018/10/06/easy-documentation-with-docsy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lightcube-c.github.io/en/blog/2018/10/06/easy-documentation-with-docsy/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lightcube-c.github.io/en/</loc>
-    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lightcube-c.github.io/en/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lightcube-c.github.io/en/blog/2018/10/06/the-second-blog-post/</loc>
-    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/blog/2018/10/06/the-second-blog-post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lightcube-c.github.io/en/blog/2018/10/06/the-second-blog-post/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lightcube-c.github.io/en/blog/2018/10/06/the-second-blog-post/</loc>
-    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/blog/2018/10/06/the-second-blog-post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lightcube-c.github.io/en/blog/2018/10/06/the-second-blog-post/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lightcube-c.github.io/en/blog/2018/01/04/another-great-release/</loc>
-    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/blog/2018/01/04/another-great-release/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lightcube-c.github.io/en/blog/2018/01/04/another-great-release/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lightcube-c.github.io/en/docs/getting-started/example-page/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/docs/getting-started/example-page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lightcube-c.github.io/en/docs/getting-started/example-page/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lightcube-c.github.io/en/docs/reference/parameter-reference/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/docs/reference/parameter-reference/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lightcube-c.github.io/en/docs/reference/parameter-reference/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lightcube-c.github.io/en/docs/tasks/ponycopters/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/docs/tasks/ponycopters/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lightcube-c.github.io/en/docs/tasks/ponycopters/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lightcube-c.github.io/en/index.json</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/index.json"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lightcube-c.github.io/en/index.json"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lightcube-c.github.io/en/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lightcube-c.github.io/en/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lightcube-c.github.io/en/blog/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lightcube-c.github.io/en/blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lightcube-c.github.io/en/community/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/community/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lightcube-c.github.io/en/community/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lightcube-c.github.io/en/search/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://lightcube-c.github.io/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lightcube-c.github.io/en/search/"
+                href="https://examplesite.com/en/tags/"
                 />
   </url>
   
