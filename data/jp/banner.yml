@@ -1,0 +1,10 @@
+############################### Banner ################################
+banner:
+  enable : true
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "LightCubeへようこそ！"
+  content : "LightCubeでは、教育機関向けゲームの開発や、ウェブサイトの制作、サーバー構築などを行っております。"
+  button:
+    enable : true
+    label : "詳しく"
+    link : "#services"

@@ -1,0 +1,15 @@
+---
+about:
+  enable: true
+  title: About Us
+  about_Item:
+  - icon: ti-ruler-pencil
+    title: Creative
+    content: We take in many new ideas that have never existed before and pursue originality.
+  - icon: ti-layout-width-full
+    title: Simple
+    content: Pursue and provide a UI that is easy for users to use.
+  - icon: ti-bar-chart
+    title: High quality
+    content: We will provide high-quality services with the aim of doubling the set
+      targets.

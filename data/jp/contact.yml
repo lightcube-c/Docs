@@ -1,0 +1,17 @@
+---
+contact:
+  enable: true
+  title: お問い合わせ
+  subtitle: 連絡先
+  content: LightCubeにお問い合わせを行う際は以下の連絡先にお願いします。
+  form_Action: https://formspree.io/xdoajvag
+  map:
+    enable: false
+    gmapAPI: https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places
+    mapLatitude: "51.5223477"
+    mapLongitude: "-0.1622023"
+  contact_Details:
+  - icon: ti-location-pin
+    info: 千葉県千葉市
+  - icon: ti-email
+    info: Eメール：lightcube.c@gmail.com

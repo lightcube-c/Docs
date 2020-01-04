@@ -1,0 +1,12 @@
+---
+banner:
+  enable: true
+  bg_Image: ''
+  icon: ''
+  title: Welcome to LightCube!
+  content: LightCube develops games for educational institutions, creates websites,
+    and builds servers.
+  button:
+    enable: true
+    label: Learn more
+    link: "#services"

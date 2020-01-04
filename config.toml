@@ -1,0 +1,78 @@
+baseURL = "https://lightcube-b.netlify.com"
+defaultContentLanguage = "jp"
+defaultContentLanguageInSubdir = true
+disableLanguages = []
+disqusShortname = ""
+paginate = "6"
+summaryLength = "15"
+theme = "meghna-hugo"
+title = "LightCube"
+[Languages.en]
+contentDir = "content/english"
+home = "Home"
+languageCode = "en-us"
+languageName = "En"
+weight = 2
+[Languages.jp]
+contentDir = "content/japanese"
+home = "Home"
+languageCode = "ja-jp"
+languageName = "Jp"
+weight = 1
+[[menu.main]]
+URL = "about"
+name = "About Us"
+weight = 1
+[[menu.main]]
+URL = "services"
+name = "Service"
+weight = 2
+[[menu.main]]
+URL = "team"
+name = "Team"
+weight = 3
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 4
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
+[params]
+author = "Themefisher"
+description = "Responsive Multipurpose Parallax HTML5 Template"
+googleAnalitycsID = "Your ID"
+logo = "images/logo.png"
+postShare = true
+[[params.plugins.css]]
+URL = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+URL = "plugins/animate-css/animate.css"
+[[params.plugins.css]]
+URL = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.css]]
+URL = "plugins/slick/slick.css"
+[[params.plugins.js]]
+URL = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+URL = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+URL = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+URL = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+URL = "plugins/wow/wow.min.js"
+[params.preloader]
+enable = true
+preloader = "images/logo.png"
+[[params.social_Icon]]
+icon = "ti-github"
+link = "https://github.com/lightcube-c"
+[[params.social_Icon]]
+icon = "ti-twitter-alt"
+link = "https://twitter.com/LightCube_c"

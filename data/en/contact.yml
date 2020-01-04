@@ -1,0 +1,17 @@
+---
+contact:
+  enable: true
+  title: Contact Us
+  subtitle: Contact Details
+  content: 'When contacting LightCube, please contact the following:'
+  form_Action: https://formspree.io/xdoajvag
+  map:
+    enable: false
+    gmapAPI: https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places
+    mapLatitude: "51.5223477"
+    mapLongitude: "-0.1622023"
+  contact_Details:
+  - icon: ti-location-pin
+    info: Chiba-shi, Chiba, Japan
+  - icon: ti-email
+    info: 'Email: lightcube.c@gmail.com'

@@ -1,0 +1,15 @@
+---
+service:
+  enable: true
+  title: Our Services
+  service_Item:
+  - icon: ti-world
+    title: Server construction
+    content: Construction of a server that can be used for WEB server, database management,
+      server monitoring, etc.
+  - icon: ti-layout-slider
+    title: Game production
+    content: Development of programming learning software for educational institutions
+  - icon: ti-pencil
+    title: Production of images and videos
+    content: Promotion of games and software and production of trailers

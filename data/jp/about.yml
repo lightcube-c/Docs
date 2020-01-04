@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : 私たちについて
+  about_Item :
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : クリエイティブ
+    content : 今までになかった新しいアイデアを多く取り入れ、オリジナル性を追求します。
+
+  - icon : ti-layout-width-full # themify icon pack : https://themify.me/themify-icons
+    title : シンプル
+    content : ユーザーが使いやすいと思えるUIを追求し、提供します。
+
+  - icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
+    title : 高品質
+    content : 設定した目標の2倍上を目指して、高い品質のサービスを提供します。

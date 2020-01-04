@@ -1,0 +1,73 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: ''
+webhook_url: 
+sections:
+- type: heading
+  label: Users
+- type: directory
+  path: data/jp
+  label: ホーム（日本語）
+  create: all
+  match: "**/*"
+  new_doc_ext: yml
+- type: directory
+  path: data/en
+  label: ホーム（英語）
+  create: all
+  match: "**/*"
+  new_doc_ext: yml
+- type: heading
+  label: Posts
+- type: directory
+  path: content/japanese/blog
+  label: 投稿
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/english/blog
+  label: 投稿（英語）
+  create: all
+  match: "**/*"
+- type: heading
+  label: Home
+- type: directory
+  path: content/japanese/author
+  label: 投稿者（日本語）
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/english/author
+  label: 投稿者（英語）
+  create: all
+  match: "**/*"
+- type: heading
+  label: 'Copy : Other'
+- type: directory
+  path: i18n
+  label: コピーライト
+  create: all
+  match: "**/*"
+  new_doc_ext: yaml
+- type: heading
+  label: Site Settings
+- type: document
+  path: config.toml
+  label: Config
+upload_dir: static/images
+public_path: "/images"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+build:
+  preview_env:
+  - HUGO_ENV=staging
+  - HUGO_VERSION=0.59.1
+  preview_output_directory: public
+  preview_docker_image: forestryio/hugo:latest
+  mount_path: "/srv"
+  working_dir: "/srv"
+  instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
+    -d public
+version: 0.59.1

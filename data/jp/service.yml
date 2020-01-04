@@ -1,0 +1,16 @@
+################################# Service #################################
+service:
+  enable : true
+  title : 事業内容
+  service_Item :
+    - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      title : サーバー構築
+      content : WEBサーバーやデータベース管理・サーバー監視などの用途に使えるサーバーの構築
+      
+    - icon : ti-layout-slider # themify icon pack : https://themify.me/themify-icons
+      title : ゲーム制作
+      content : 教育機関向けのプログラミング学習ソフトウェアの開発
+      
+    - icon : ti-pencil # themify icon pack : https://themify.me/themify-icons
+      title : 画像・動画の制作
+      content : ゲームやソフトウェアのプロモーションやトレイラーの制作
