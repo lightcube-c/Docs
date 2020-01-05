@@ -42,19 +42,6 @@ sections:
   label: 投稿者（英語）
   create: all
   match: "**/*"
-- type: heading
-  label: 'Copy : Other'
-- type: directory
-  path: i18n
-  label: コピーライト
-  create: all
-  match: "**/*"
-  new_doc_ext: yaml
-- type: heading
-  label: Site Settings
-- type: document
-  path: config.toml
-  label: Config
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''

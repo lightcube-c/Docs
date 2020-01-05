@@ -1,4 +1,3 @@
----
 - id: blogTitle
   translation: 最新記事
 - id: readMore
@@ -12,5 +11,4 @@
 - id: authorsPosts
   translation: 著者の投稿
 - id: copyright
-  translation: Copyright &copy; 2020 [LightCube Team](https://lightcube-b.netlify.com/)
-    All Rights Reserved.
+  translation: Copyright &copy; 2020 [LightCube Team](https://lightcube-b.web.app) All Rights Reserved.
