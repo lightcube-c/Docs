@@ -1,21 +1,50 @@
-################################# Default configuration ###################
-baseURL = "https://lightcube-b.netlify.com"
-title = "LightCube"
-theme = "meghna-hugo"
-# post pagination
-paginate = "6"
-# post excerpt
-summaryLength = "15"
-# disqus short name
-disqusShortname = "" # get your shortname form here : https://disqus.com
-# default content language
+baseURL = "https://lightcube.netlify.com"
 defaultContentLanguage = "jp"
 defaultContentLanguageInSubdir = true
-# disable language
 disableLanguages = []
-
-############################# Plugins ##########################
-# css plugins
+disqusShortname = ""
+paginate = "6"
+summaryLength = "15"
+theme = "meghna-hugo"
+title = "LightCube"
+[Languages.en]
+contentDir = "content/english"
+home = "Home"
+languageCode = "en-us"
+languageName = "En"
+weight = 2
+[Languages.jp]
+contentDir = "content/japanese"
+home = "Home"
+languageCode = "ja-jp"
+languageName = "Jp"
+weight = 1
+[[menu.main]]
+URL = "about"
+name = "About Us"
+weight = 1
+[[menu.main]]
+URL = "services"
+name = "Service"
+weight = 2
+[[menu.main]]
+URL = "team"
+name = "Team"
+weight = 3
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 4
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
+[params]
+author = "Themefisher"
+description = "Responsive Multipurpose Parallax HTML5 Template"
+googleAnalitycsID = "Your ID"
+logo = "images/logo.png"
+postShare = true
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
@@ -26,8 +55,6 @@ URL = "plugins/animate-css/animate.css"
 URL = "plugins/magnific-popup/magnific-popup.css"
 [[params.plugins.css]]
 URL = "plugins/slick/slick.css"
-
-# js plugins
 [[params.plugins.js]]
 URL = "plugins/jquery/jquery.min.js"
 [[params.plugins.js]]
@@ -40,93 +67,24 @@ URL = "plugins/shuffle/shuffle.min.js"
 URL = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 [[params.plugins.js]]
 URL = "plugins/wow/wow.min.js"
-
-############################# Navigation ##################################
-[menu]
-
-  [[menu.main]]
-  name = "About Us"
-  URL = "about"
-  weight = 1
-
-  [[menu.main]]
-  name = "Service"
-  URL = "services"
-  weight = 2
-
-  [[menu.main]]
-  name = "Team"
-  URL = "team"
-  weight = 3
-
-  [[menu.main]]
-  name = "Blog"
-  URL = "blog"
-  weight = 4
-
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact"
-  weight = 5
-
-
-
-############################# Default Parameters ##########################
-[params]
-logo = "images/logo.png"
-# Meta data
-description = "Responsive Multipurpose Parallax HTML5 Template"
-author = "Themefisher"
-# Google Analitycs
-googleAnalitycsID = "Your ID"
-# post share
-postShare = true
-
-# preloader
 [params.preloader]
 enable = true
 preloader = "images/logo.png"
-
-############################# social icons ##########################
 [[params.social_Icon]]
-icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
+icon = "ti-facebook"
 link = "#"
-
 [[params.social_Icon]]
-icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+icon = "ti-twitter-alt"
 link = "#"
-
 [[params.social_Icon]]
-icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
+icon = "ti-youtube"
 link = "#"
-
 [[params.social_Icon]]
-icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+icon = "ti-linkedin"
 link = "#"
-
 [[params.social_Icon]]
-icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
+icon = "ti-dribbble"
 link = "#"
-
 [[params.social_Icon]]
-icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
+icon = "ti-pinterest"
 link = "#"
-
-################################# language ################################
-[Languages]
-
-  ################################ English Language ########################
-  [Languages.en]
-  languageName = "En"
-  languageCode = "en-us"
-  contentDir = "content/english"
-  weight = 2
-  home = "Home"
-
-  ################################ Japanese Language ######################
-  [Languages.jp]
-  languageName = "Jp"
-  languageCode = "ja-jp"
-  contentDir = "content/japanese"
-  weight = 1
-  home = "Home"

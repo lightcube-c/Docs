@@ -49,13 +49,12 @@ sections:
   label: コピーライト他
   create: all
   match: "**/*"
-  new_doc_ext: ".yaml"
+  new_doc_ext: yaml
 - type: heading
   label: Config
 - type: document
   path: config.toml
   label: Settings
-  match: "**/*"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
