@@ -42,6 +42,20 @@ sections:
   label: 投稿者（英語）
   create: all
   match: "**/*"
+- type: heading
+  label: Copyright & Other
+- type: directory
+  path: i18n
+  label: コピーライト他
+  create: all
+  match: "**/*"
+  new_doc_ext: ".yaml"
+- type: heading
+  label: Config
+- type: document
+  path: config.toml
+  label: Settings
+  match: "**/*"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
