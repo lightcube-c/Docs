@@ -3,17 +3,17 @@ team:
   enable: true
   title: チーム
   team_Member:
-  - image: images/person1.jpg
-    name: Yamato
-    designation: Manager / CSO
+  - image: images/team/akagiren.png
+    name: Komeiji Ren
+    designation: Manager / CEO
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
     social_Icon:
     - icon: ti-world
       link: "#"
-  - image: images/team/akagiren.png
-    name: Komeiji Ren
-    designation: Manager / CEO
+  - image: images/person1.jpg
+    name: Yamato
+    designation: Manager / CSO
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
     social_Icon:
