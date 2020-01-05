@@ -71,20 +71,8 @@ URL = "plugins/wow/wow.min.js"
 enable = true
 preloader = "images/logo.png"
 [[params.social_Icon]]
-icon = "ti-facebook"
-link = "#"
-[[params.social_Icon]]
 icon = "ti-twitter-alt"
-link = "#"
+link = "https://twitter.com/LightCube_c"
 [[params.social_Icon]]
-icon = "ti-youtube"
-link = "#"
-[[params.social_Icon]]
-icon = "ti-linkedin"
-link = "#"
-[[params.social_Icon]]
-icon = "ti-dribbble"
-link = "#"
-[[params.social_Icon]]
-icon = "ti-pinterest"
-link = "#"
+icon = "ti-github"
+link = "https://github.com/lightcube-c"
