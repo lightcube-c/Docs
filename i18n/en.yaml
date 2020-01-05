@@ -1,3 +1,4 @@
+---
 - id: blogTitle
   translation: Latest Post
 - id: readMore
@@ -11,4 +12,5 @@
 - id: authorsPosts
   translation: Author's posts
 - id: copyright
-  translation: copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved
+  translation: Copyright &copy; 2020 [LightCube Team](https://lightcube.netlify.com)
+    All Rights Reserved.
