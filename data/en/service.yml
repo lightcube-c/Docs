@@ -1,28 +1,15 @@
-################################# Service #################################
+---
 service:
-  enable : true
-  title : Our Services
-  service_Item :
-    - icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      title : WordPress Theme
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    - icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      title : Responsive Design
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    - icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      title : Media &amp; Advertisement
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    - icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      title : Graphic Design
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    - icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      title : Apps Development
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    - icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      title : Networking
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  enable: true
+  title: Our Services
+  service_Item:
+  - icon: ti-world
+    title: Server construction
+    content: Construction of a server that can be used for WEB server, database management,
+      server monitoring, etc.
+  - icon: ti-layout-slider
+    title: Game production
+    content: Development of programming learning software for educational institutions
+  - icon: ti-pencil
+    title: Production of images and videos
+    content: Promotion of games and software and production of trailers
