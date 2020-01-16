@@ -16,8 +16,12 @@
 
     {{"<!-- Main Stylesheet -->"|safeHTML}}
     {{ $styles := resources.Get "css/style.css" | minify}}
-    <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
-
+    <script type="text/javascript">
+        var delaycss = document.createElement('link');
+        delaycss.rel = 'stylesheet';
+        delaycss.href = '{{ $styles.Permalink }}';
+        document.head.appendChild(delaycss);
+    </script>
     {{ "<!--Favicon-->" | safeHTML }}
     <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">
     <link rel="icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">
