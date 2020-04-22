@@ -46,7 +46,7 @@ googleAnalitycsID = "Your ID"
 logo = "images/logo.png"
 postShare = true
 [[params.plugins.css]]
-URL = "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 URL = "plugins/themify-icons/themify-icons.css"
 [[params.plugins.css]]
