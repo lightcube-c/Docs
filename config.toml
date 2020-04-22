@@ -1,4 +1,4 @@
-baseURL = "https://lightcube.netlify.com"
+baseURL = "https://lightcube.netlify.app"
 defaultContentLanguage = "jp"
 defaultContentLanguageInSubdir = true
 disableLanguages = []
@@ -46,7 +46,7 @@ googleAnalitycsID = "Your ID"
 logo = "images/logo.png"
 postShare = true
 [[params.plugins.css]]
-URL = "plugins/bootstrap/bootstrap.min.css"
+URL = "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
 [[params.plugins.css]]
 URL = "plugins/themify-icons/themify-icons.css"
 [[params.plugins.css]]
@@ -56,9 +56,9 @@ URL = "plugins/magnific-popup/magnific-popup.css"
 [[params.plugins.css]]
 URL = "plugins/slick/slick.css"
 [[params.plugins.js]]
-URL = "plugins/jquery/jquery.min.js"
+URL = "https://code.jquery.com/jquery-3.5.0.min.js"
 [[params.plugins.js]]
-URL = "plugins/bootstrap/bootstrap.min.js"
+URL = "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
 [[params.plugins.js]]
 URL = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
